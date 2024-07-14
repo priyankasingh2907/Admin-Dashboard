@@ -14,7 +14,7 @@ A Resopnsive website ---TAxi Admin Pannel .
 
 | Project   | Link     | Github link               | videio|
 | :-------- | :------- | :------------------------- |  :-------------------------|
-| `Taxi Admin Pannel` |https://pri-admin-dashmaker.netlify.app/  | https://github.com/priyankasingh2907/Admin-Dashboard| |
+| `Taxi Admin Pannel` |https://pri-admin-dashmaker.netlify.app/  | https://github.com/priyankasingh2907/Admin-Dashboard| https://www.youtube.com/watch?v=AsTVQd02SJk|
 
 <br/>
 ## Run Locally
